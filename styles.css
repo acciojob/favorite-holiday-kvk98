@@ -1,4 +1,10 @@
 /*  your css code here. If applicable */
-li {
+li:first-child {
 	font-weight: bold;
+	font-style: italic;
+	
+}
+/*  your css code here. If applicable */
+li:last-child {
+	font-style: emph;
 }
